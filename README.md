@@ -32,6 +32,23 @@ We are committed to educating our developers and stakeholders on security princi
 
 By adopting a Security-Driven Development model, we aim to reduce the number of vulnerabilities, increase end-user trust, and lower the costs associated with security issue remediation post-deployment. Treating security as a fundamental and ongoing component of the software development cycle enables us to build more resilient systems against cyber threats.
 
+## Wiki
+
+Our repository's Wiki is up and running! It's the central hub for detailed documentation on Security-Driven Development (SDD) practices. While we've populated it with key information, please note that it's still a work in progress. 
+
+Inside the Wiki, you can find:
+
+- A comprehensive breakdown of SDD practices
+- Examples of how to apply SDD in different programming languages
+- Contribution guidelines
+- Security policies and procedures
+- And much more!
+
+We're continually improving and expanding the Wiki to make it a valuable resource for everyone interested in secure software development. Your contributions and suggestions are welcome; they'll help the Wiki grow and evolve. Check back often for updates and feel free to reach out if you have something to add!
+
+Visit the [Security-Driven Development Wiki](https://github.com/boloto1979/Security-Driven-Development/wiki) to learn more and contribute.
+
+
 ## Contributing
 
 We welcome contributions that strengthen our security posture. Please refer to our contributing guidelines for more information on how to get involved.
