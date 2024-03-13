@@ -38,7 +38,7 @@ We welcome contributions that strengthen our security posture. Please refer to o
 
 ## License
 
-[Specify the type of license under which this project is released]
+[SECURITY-DRIVEN DEVELOPMENT SOFTWARE LICENSE (SDDSL)](https://github.com/boloto1979/Security-Driven-Development/blob/main/LICENSE.md)
 
 ---
 
