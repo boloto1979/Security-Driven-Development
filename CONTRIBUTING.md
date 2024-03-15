@@ -5,6 +5,6 @@ This is a completely free project that accepts contributions via pull requests o
 ## Steps
 
 1. Fork this repository.
-2. Submit your commits in Portuguese.
+2. Submit your commits.
 3. Enter a short summary of what was added.
 4. Request a pull request.
