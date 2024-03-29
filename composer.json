@@ -1,0 +1,35 @@
+{
+    "name": "sdd/tests",
+    "description": "Security-Driven Development Package for Laravel",
+    "type": "library",
+    "require": {
+        "php": "^7.4|^8.0",
+        "laravel/framework": "^9.0|^10.0|^11.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0",
+        "laravel/dusk": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sdd\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Sdd\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sdd\\SddServiceProvider"
+            ]
+        }
+    },
+    "scripts": {
+        "post-autoload-dump": [
+            "@php artisan vendor:publish --provider=\"Sdd\\SddServiceProvider\" --tag=sdd-security --ansi"
+        ]
+    }
+}
